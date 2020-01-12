@@ -1,2 +1,2 @@
 # my_mergesort
-mergesort implementation from scratch, for educational purposes
+[WIP!!] mergesort implementation from scratch, for educational purposes
