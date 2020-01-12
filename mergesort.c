@@ -11,7 +11,7 @@
 #define ANSI_COLOR_CYAN    "\x1b[36m"
 #define ANSI_COLOR_RESET   "\x1b[0m"
 
-/** Jonas Berger 2020.
+/** Jonas B 2020.
  *  Implementierung des Mergesort Sortieralgorithmus from scratch, sortiert ein hardgecodetes int Array
  **/
 
